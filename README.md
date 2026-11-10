@@ -2,7 +2,7 @@
 
 Workflow [n8n](https://n8n.io) untuk chatbot grup WhatsApp yang menjawab pertanyaan **hanya berdasarkan dokumen juknis/SOP** melalui RAG (Retrieval-Augmented Generation). Setiap jawaban menyertakan rujukan dokumen. Jika jawabannya tidak ada di dokumen, bot menolak menjawab dan tidak menebak.
 
-![Canvas workflow n8n](docs/n8n-canvas.png)
+![Canvas workflow n8n](n8n-canvas.png)
 
 ## Cara kerja
 
